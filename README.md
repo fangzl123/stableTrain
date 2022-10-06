@@ -1,2 +1,3 @@
 # stableTrain
-will be updated soon
+Toy example for stabilizing training dynamics
+It will be updated soon
